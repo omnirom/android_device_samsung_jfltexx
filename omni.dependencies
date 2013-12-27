@@ -28,11 +28,5 @@
     "repository": "android_hardware_samsung",
     "target_path": "hardware/samsung",
     "revision": "android-4.4"
-  },
-  {
-    "remote": "github",
-    "repository": "OmniJF/android_packages_apps_JFControl",
-    "target_path": "packages/apps/JFControl",
-    "revision": "android-4.4"
   }
 ]
